@@ -22,9 +22,9 @@ function App() {
     };
   }, []);
 
-  if (windowWidth < 800) {
-    return <div className=' text-center text-4xl font-semibold text-red-300 bg-red-800 px-5 py-2'>Please open on in desktop for better view.</div>;
-  }
+  // if (windowWidth < 800) {
+  //   return <div className=' text-center text-4xl font-semibold text-red-300 bg-red-800 px-5 py-2'>Please open on in desktop for better view.</div>;
+  // }
 
   return (
     <div className="App">

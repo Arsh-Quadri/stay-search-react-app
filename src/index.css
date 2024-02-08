@@ -11,6 +11,8 @@ body {
   background-image: url(https://paddle.cdn.prismic.io/paddle/4b35fca5-16b8-4ed5-bf2b-f00078061008_bg-price-intelligently.svg);
   /* background-size: contain; */
   background-size: cover;
+  width: 100%;
+  overflow-x: hidden;
 }
 
 code {
